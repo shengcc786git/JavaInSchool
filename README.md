@@ -7,4 +7,7 @@
 <p>(4)~(5)：client端，(4)client only本機多開、(5(ActionListener、swing)</p>
 <p>kmeans：K-means演算法對圖片做分群，再將分群結果寫成一張新的圖片。</p>
 <p>getImdb：使用java的Regular expression去爬蟲 http://www.rarbt.com/ 的評分</p>
-<p></p>
+<p>c/c++的部分如下：</p>
+<p>dijkstra.c：一個應用問題，我用dijkstra演算法解決(最短路徑之一)。</p>
+<p>queen.cpp、GA_queen.cpp：八皇后問題，爬山演算法、基因演算法解決。</p>
+<p>minmax.cpp、minmax_pruning.cpp：對建好的tree做 Min-Max對局搜尋法、Alpha-Beta修剪法(有效下降tree的大小)。</p>
